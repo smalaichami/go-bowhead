@@ -16,7 +16,7 @@
 
 package ethclient
 
-import "github.com/ethereum/go-ethereum"
+import "github.com/smalaichami/go-bowhead"
 
 // Verify that Client implements the ethereum interfaces.
 var (

@@ -28,9 +28,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/swarm/api"
+	"github.com/smalaichami/go-bowhead/log"
+	"github.com/smalaichami/go-bowhead/metrics"
+	"github.com/smalaichami/go-bowhead/swarm/api"
 )
 
 //templateMap holds a mapping of an HTTP error code to a template

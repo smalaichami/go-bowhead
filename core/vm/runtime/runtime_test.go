@@ -25,7 +25,7 @@ import (
 	"github.com/smalaichami/go-bowhead/common"
 	"github.com/smalaichami/go-bowhead/core/state"
 	"github.com/smalaichami/go-bowhead/core/vm"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 )
 
 func TestDefaults(t *testing.T) {

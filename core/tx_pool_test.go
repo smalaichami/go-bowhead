@@ -30,7 +30,7 @@ import (
 	"github.com/smalaichami/go-bowhead/core/state"
 	"github.com/smalaichami/go-bowhead/core/types"
 	"github.com/smalaichami/go-bowhead/crypto"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 	"github.com/smalaichami/go-bowhead/event"
 	"github.com/smalaichami/go-bowhead/params"
 )

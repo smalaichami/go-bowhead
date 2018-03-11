@@ -28,7 +28,7 @@ import (
 
 	"github.com/smalaichami/go-bowhead/common"
 	"github.com/smalaichami/go-bowhead/core/types"
-	"github.com/smalaichami/go-bowhead/eth"
+	"github.com/smalaichami/go-bowhead/aht"
 	"github.com/smalaichami/go-bowhead/les/flowcontrol"
 	"github.com/smalaichami/go-bowhead/light"
 	"github.com/smalaichami/go-bowhead/p2p"

@@ -27,7 +27,7 @@ import (
 	"sync"
 
 	"github.com/smalaichami/go-bowhead/accounts"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 	"github.com/smalaichami/go-bowhead/event"
 	"github.com/smalaichami/go-bowhead/internal/debug"
 	"github.com/smalaichami/go-bowhead/log"

@@ -21,7 +21,7 @@ import (
 	"testing"
 
 	"github.com/smalaichami/go-bowhead/common"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 )
 
 // makeTestTrie create a sample test trie to test node-wise reconstruction.

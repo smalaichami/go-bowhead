@@ -23,7 +23,7 @@ import (
 	"testing"
 
 	"github.com/smalaichami/go-bowhead/common"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 )
 
 func TestIterator(t *testing.T) {

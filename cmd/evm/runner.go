@@ -34,7 +34,7 @@ import (
 	"github.com/smalaichami/go-bowhead/core/state"
 	"github.com/smalaichami/go-bowhead/core/vm"
 	"github.com/smalaichami/go-bowhead/core/vm/runtime"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 	"github.com/smalaichami/go-bowhead/log"
 	"github.com/smalaichami/go-bowhead/params"
 	cli "gopkg.in/urfave/cli.v1"

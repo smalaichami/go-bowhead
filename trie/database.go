@@ -21,7 +21,7 @@ import (
 	"time"
 
 	"github.com/smalaichami/go-bowhead/common"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 	"github.com/smalaichami/go-bowhead/log"
 )
 

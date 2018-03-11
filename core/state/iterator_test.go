@@ -21,7 +21,7 @@ import (
 	"testing"
 
 	"github.com/smalaichami/go-bowhead/common"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 )
 
 // Tests that the node iterator indeed walks over the entire database contents.

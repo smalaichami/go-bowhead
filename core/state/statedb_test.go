@@ -32,7 +32,7 @@ import (
 
 	"github.com/smalaichami/go-bowhead/common"
 	"github.com/smalaichami/go-bowhead/core/types"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 )
 
 // Tests that updating a state trie does not leak any database writes prior to

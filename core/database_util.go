@@ -26,7 +26,7 @@ import (
 
 	"github.com/smalaichami/go-bowhead/common"
 	"github.com/smalaichami/go-bowhead/core/types"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 	"github.com/smalaichami/go-bowhead/log"
 	"github.com/smalaichami/go-bowhead/metrics"
 	"github.com/smalaichami/go-bowhead/params"

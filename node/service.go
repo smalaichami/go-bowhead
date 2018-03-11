@@ -20,7 +20,7 @@ import (
 	"reflect"
 
 	"github.com/smalaichami/go-bowhead/accounts"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 	"github.com/smalaichami/go-bowhead/event"
 	"github.com/smalaichami/go-bowhead/p2p"
 	"github.com/smalaichami/go-bowhead/rpc"

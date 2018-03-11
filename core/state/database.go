@@ -21,7 +21,7 @@ import (
 	"sync"
 
 	"github.com/smalaichami/go-bowhead/common"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 	"github.com/smalaichami/go-bowhead/trie"
 	lru "github.com/hashicorp/golang-lru"
 )

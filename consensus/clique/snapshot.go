@@ -22,7 +22,7 @@ import (
 
 	"github.com/smalaichami/go-bowhead/common"
 	"github.com/smalaichami/go-bowhead/core/types"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 	"github.com/smalaichami/go-bowhead/params"
 	lru "github.com/hashicorp/golang-lru"
 )

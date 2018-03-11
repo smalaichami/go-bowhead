@@ -34,7 +34,7 @@ import (
 	"github.com/smalaichami/go-bowhead/core/types"
 	"github.com/smalaichami/go-bowhead/crypto"
 	"github.com/smalaichami/go-bowhead/crypto/sha3"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 	"github.com/smalaichami/go-bowhead/log"
 	"github.com/smalaichami/go-bowhead/params"
 	"github.com/smalaichami/go-bowhead/rlp"

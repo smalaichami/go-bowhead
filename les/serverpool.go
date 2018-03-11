@@ -28,7 +28,7 @@ import (
 	"time"
 
 	"github.com/smalaichami/go-bowhead/common/mclock"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 	"github.com/smalaichami/go-bowhead/log"
 	"github.com/smalaichami/go-bowhead/p2p"
 	"github.com/smalaichami/go-bowhead/p2p/discover"

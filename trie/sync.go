@@ -21,7 +21,7 @@ import (
 	"fmt"
 
 	"github.com/smalaichami/go-bowhead/common"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 	"gopkg.in/karalabe/cookiejar.v2/collections/prque"
 )
 

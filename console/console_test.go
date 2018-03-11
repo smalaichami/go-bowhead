@@ -29,7 +29,7 @@ import (
 	"github.com/smalaichami/go-bowhead/common"
 	"github.com/smalaichami/go-bowhead/consensus/ethash"
 	"github.com/smalaichami/go-bowhead/core"
-	"github.com/smalaichami/go-bowhead/eth"
+	"github.com/smalaichami/go-bowhead/aht"
 	"github.com/smalaichami/go-bowhead/internal/jsre"
 	"github.com/smalaichami/go-bowhead/node"
 )

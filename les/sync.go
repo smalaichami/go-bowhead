@@ -21,7 +21,7 @@ import (
 	"time"
 
 	"github.com/smalaichami/go-bowhead/core"
-	"github.com/smalaichami/go-bowhead/eth/downloader"
+	"github.com/smalaichami/go-bowhead/aht/downloader"
 	"github.com/smalaichami/go-bowhead/light"
 )
 

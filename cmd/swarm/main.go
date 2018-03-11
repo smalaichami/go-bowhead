@@ -34,7 +34,7 @@ import (
 	"github.com/smalaichami/go-bowhead/common"
 	"github.com/smalaichami/go-bowhead/console"
 	"github.com/smalaichami/go-bowhead/crypto"
-	"github.com/smalaichami/go-bowhead/ethclient"
+	"github.com/smalaichami/go-bowhead/ahtclient"
 	"github.com/smalaichami/go-bowhead/internal/debug"
 	"github.com/smalaichami/go-bowhead/log"
 	"github.com/smalaichami/go-bowhead/node"

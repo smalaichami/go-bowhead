@@ -20,7 +20,7 @@ import (
 	"context"
 
 	"github.com/smalaichami/go-bowhead/core"
-	"github.com/smalaichami/go-bowhead/ethdb"
+	"github.com/smalaichami/go-bowhead/ahtdb"
 	"github.com/smalaichami/go-bowhead/light"
 	"github.com/smalaichami/go-bowhead/log"
 )

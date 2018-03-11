@@ -32,7 +32,7 @@ import (
 	"github.com/smalaichami/go-bowhead/contracts/chequebook"
 	"github.com/smalaichami/go-bowhead/contracts/ens"
 	"github.com/smalaichami/go-bowhead/crypto"
-	"github.com/smalaichami/go-bowhead/ethclient"
+	"github.com/smalaichami/go-bowhead/ahtclient"
 	"github.com/smalaichami/go-bowhead/log"
 	"github.com/smalaichami/go-bowhead/metrics"
 	"github.com/smalaichami/go-bowhead/node"
